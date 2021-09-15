@@ -1,0 +1,8 @@
+#Removing any PDF saved on the dir
+*.pdf
+
+#Not including results given by the program
+results
+
+#Removing env vars
+.env
