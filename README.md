@@ -1,5 +1,5 @@
 ## Text sum simple
-This project is being made for a very special person that is in Med school. It's a simple python code that gets a PDF lecture file, and should help the user by giving them a summary of the subject along with some keywords and links that should explain concepts present in the text. 
+This project is being made for a very special person that is in Med school: Mainha. It's a simple python code that gets a PDF lecture file, and should help the user by giving them a summary of the subject along with some keywords and links that should explain concepts present in the text. 
 
 > Yet not fully ready for use!!
 
